@@ -2637,7 +2637,7 @@ input, select, textarea {
 		margin-bottom: 40px;
 	}
 
-	.imgTols img{
+	.imgTols .card img{
 		width: 100px;
 		height: 100px;
 		margin: 10px 20px;
